@@ -30,21 +30,12 @@
 ##### npm install && npm start
 ##### Then, a QR Code wil appear on your terminal.
 ##### On IOS Scan QR code through Camera app.
-##### On Android : Scan QR code through Expo Go app.
-
-##### You can also scan this [QR CODE](https://expo.dev/@marvedventures/little-lemon-app?serviceType=classic&distribution=expo-) to view the project. 
+##### On Android : Scan QR code through Expo Go app. 
 
 ### Screenshot
 ![final_mockup](https://user-images.githubusercontent.com/108392678/217717918-a6f83c94-c1ab-4796-903e-388b9a67cdd9.jpg)
 ![Onboarding](https://user-images.githubusercontent.com/108392678/217715066-19026169-ab51-450e-b21c-cc925940d03e.jpg)
-![Profile and Home](https://user-images.githubusercontent.com/108392678/217715079-d66eb960-f5cf-4cdf-8f33-b45b320fca7e.jpg)
-
-### Links
-
-- Github: [Code](https://github.com/marvedventures/little-lemon-app)
-- Demo : Scan the [QR Code](https://expo.dev/@marvedventures/little-lemon-app?serviceType=classic&distribution=expo-) to see the demo.
-
-## My process
+![Profile and Home](https://user-images.githubusercontent.com/108392678/217715079-d66eb960-f5cf-4cdf-8f33-b45b320fca7e.json)
 
 ### Built with
 
@@ -141,9 +132,3 @@ useEffect(() => {
 - [SQLite](https://docs.expo.dev/versions/latest/sdk/sqlite/) - This helped me for saving menu items.
 - [Async Storage](https://react-native-async-storage.github.io/async-storage/docs/api/) - This helped me for saving user settings.
 - [ContextAPI](https://beta.reactjs.org/reference/react/createContext)- This helped me for creating a authentication context for login.
-
-## Author
-
-- Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marvedventures](https://www.linkedin.com/in/marvedventures/)
-- Twitter - [@marvedventures](https://www.twitter.com/marvedventures)
